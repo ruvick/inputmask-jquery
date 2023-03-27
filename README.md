@@ -1,8 +1,15 @@
-# popup-js
+# Inputmask-jquery
 
-Модальное окно на чистом Java-Script. Без применеия библиотек. Плавное открытие и закрытие. Так же применена анимация при открытии и закрытии окна на css. 
+Маска телефона для инпутов, jquery.
 
-Важно! Чтобы окно срабатывало, необходимо в конструкцию сайта добавить обертку wrapper и тегу body прописать стили с техническим классом _lock.
-Подробнее смотрите в файле стилей.
+Скачиваем библиотеку, подключаем на сайт. Важно, так же подключить сам jquery, последней версии, иначе ничего работать не будет.
+![Библиотека](https://github.com/ruvick/inputmask-jquery/raw/main/img/3.png)
 
-![Модальное окно](https://github.com/ruvick/popup-js/raw/main/img/popup-open.png)
+Далее инпутам с телефонами прописываем type="tel".
+![Библиотека](https://github.com/ruvick/inputmask-jquery/raw/main/img/2.png)
+
+В файле со скриптами, пишем следующую строчку.
+![Библиотека](https://github.com/ruvick/inputmask-jquery/raw/main/img/4.png)
+
+И все замечательно работает.
+![Библиотека](https://github.com/ruvick/inputmask-jquery/raw/main/img/1.png)
