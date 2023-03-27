@@ -9,7 +9,7 @@
 ![Библиотека](https://github.com/ruvick/inputmask-jquery/raw/main/img/2.png)
 
 В файле со скриптами, пишем следующую строчку.
-![Библиотека](https://github.com/ruvick/inputmask-jquery/raw/main/img/4.png)
+![Библиотека](https://github.com/ruvick/inputmask-jquery/raw/main/img/5.png)
 
 И все замечательно работает.
 ![Библиотека](https://github.com/ruvick/inputmask-jquery/raw/main/img/1.png)
